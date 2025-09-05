@@ -2,17 +2,17 @@
     "oneliner": {
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Do you wish to become part of something meaningful? Become a Volunteer with us at the <b>Environmental & Occupational Health Conference 2026</b> and be a part of making one of the world's premier meetings of health practitioners, researchers, and policymakers a success.",
+            "content": "Join the team as a Volunteer for <b>Environmental & Occupational Health 2026</b> and contribute to making this global event a reality. Volunteering provides you with the opportunity to develop experience, network with international specialists, and help shape healthier environments and safer workplaces across the world.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "We welcome researchers, academicians, public health professionals, policy makers, and industry specialists from across the world to present their current research and innovative concepts in the Environmental & Occupational Health Conference 2026.",
+            "content": "Abstract submissions are currently open for Environmental & Occupational Health 2026. Present your findings, field-tested solutions, and case studies to stimulate cooperation, creativity, and effective action in global health and occupational safety.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Our Environmental & Occupational Health Conference 2026 brings together global leaders, researchers, and practitioners to explore innovative solutions for a healthier world. The scientific program is designed to cover the latest trends, challenges, and opportunities across the field of public health.",
+            "content": "Environmental & Occupational Health 2026 sessions provide a platform for thought leaders, scientists, and practitioners to share knowledge on environmental risks, workplace hazards, and public health interventions. Sessions facilitate cooperation and accelerate the work towards safer communities and healthier workplaces.",
             "headding": "Sessions"
         },
         "offers_content": {
@@ -64,7 +64,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Global Environmental & Occupational Health Conference, in which leaders, researchers, and professionals come together to exchange information, stimulate innovation, and drive strategies for healthier communities and a sustainable future.",
+            "content": "Welcome to Environmental & Occupational Health 2026, where global researchers, healthcare experts, policymakers, and industry leaders come together to share innovations, foster collaboration, and advance sustainable practices for healthier environments, safer workplaces, and a better future.",
             "headding": "Footer content"
         }
     },
@@ -72,9 +72,9 @@
         "6": {
             "banner_conent_id": "6",
             "image": "images/banner.jpg",
-            "headding": "Inspire innovation and community for a healthier, sustainable future. Public Health Global Conference",
+            "headding": "Transforming challenges into solutions for environmental and occupational wellbeing",
             "tag_line": "Environmental & Occupational health-POEC August 06-07, 2026 in Singapore",
-            "content": "Join top experts on August 06-07, 2026, in Singapore to discuss critical issues in environmental and occupational health. Discuss subjects ranging from industrial exposure to climate resilience and workplace safety. Receive actionable insights and strategies for driving health and safety standards globally.",
+            "content": "Discover the <b>Environmental & Occupational Health 2026</b>, such as conference topics, scientific sessions, keynote speakers, and participation possibilities. The brochure also includes abstract submission instructions, registration information, and important dates—download now and be part of the world's leading experts creating a healthier and safer world.",
             "page": "index",
             "status": "1",
             "cid": "3"
